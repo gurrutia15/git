@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: auto !important;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color:#ffffff;
+    background-color: #000000;
+}
+
+/* navbar*/
+
+.menu{
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+.listado{
+    padding-left: 500px;
+    justify-content: space-between;
+    color: #ffffff;
+    
+}
+
+/* header */
+.foto1{
+        height: 900px;
+    }
+
+/* seccion descripcion */
+
+#descripcion{
+    background-color: black;
+    color: #ffffff;  
+    font-weight: 300px;
+}
+.fila{
+    opacity: .7;
+    font-size: 14px;
+}
+
+/* seccion destacados */
+
+#destacados{
+    background-color: black;
+    color: #ffffff;  
+    font-weight: 300px;
+}
+
+.foto-card {
+    size: cover;
+    height: 200px;
+}
+
+/* seccion contacto */
+
+#contacto{
+    background-color: black;
+    color: #ffffff;  
+
+}
+.contact-container{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+/* seccion footer */
+#footer{
+    color: #ffffff;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+#footer a{
+    color: #ffffff;
+    text-decoration: none;
+    background-image: none;}
+
+#footer h4{
+    text-align: center;
+}
